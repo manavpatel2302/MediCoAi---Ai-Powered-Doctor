@@ -1,1 +1,0 @@
-# MediCoAi---Ai-Powered-Doctor
